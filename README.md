@@ -1,2 +1,2 @@
 # ProjetosEstudo
-Repositórios dos Projetos (Estudo)
+Repositório dos Projetos (Estudo)
